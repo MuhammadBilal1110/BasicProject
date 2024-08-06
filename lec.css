@@ -1,0 +1,32 @@
+body{
+    background-color:black;
+    color: aliceblue;
+    margin: 0%;
+    padding: 0%;
+}
+section{
+    display: flex ;
+    margin: 3px;
+    border: 2px solid greenyellow;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.navbar{
+    display: flex;
+    font-size: 20px;
+    text-decoration: none;
+}
+.navbar li{
+    padding: 30px 3px;
+    margin: 13px 6px;
+    list-style: none;
+    text-decoration: none;
+}
+h1{
+    font-size: 10px;
+}
+p{
+    font-size: 1oemx;
+    text-align: center;
+}
